@@ -1,5 +1,7 @@
 <img src="https://techally-content.s3-us-west-1.amazonaws.com/public-content/lacework_logo_full.png" width="600">
 
+[![IaC](https://app.soluble.cloud/api/v1/public/badges/19d2d435-f2a1-49d7-83e3-84e87eac68aa.svg)](https://app.soluble.cloud/repos/details/github.com/iancrichardson/go-sdk)  
+
 # Lacework Go SDK
 
 [![GitHub release](https://img.shields.io/github/release/lacework/go-sdk.svg)](https://github.com/lacework/go-sdk/releases/)
